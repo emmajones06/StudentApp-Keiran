@@ -22,8 +22,7 @@ fun main()
 //    println(stud2.getGrade())
 //    println("Did pass: ${stud2.didPass()}")
 
-
-    var id = 1
+    var id = 0
     val noStudents = 3
     for(i in 0..<noStudents)
     {
